@@ -1,0 +1,14 @@
+C:\Users\Section2\source\repos\NTDers5\BoolKombinasyonu\bin\Debug\BoolKombinasyonu.exe.config
+C:\Users\Section2\source\repos\NTDers5\BoolKombinasyonu\bin\Debug\BoolKombinasyonu.exe
+C:\Users\Section2\source\repos\NTDers5\BoolKombinasyonu\bin\Debug\BoolKombinasyonu.pdb
+C:\Users\Section2\source\repos\NTDers5\BoolKombinasyonu\obj\Debug\BoolKombinasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NTDers5\BoolKombinasyonu\obj\Debug\BoolKombinasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NTDers5\BoolKombinasyonu\obj\Debug\BoolKombinasyonu.exe
+C:\Users\Section2\source\repos\NTDers5\BoolKombinasyonu\obj\Debug\BoolKombinasyonu.pdb
+C:\Users\Ben\Desktop\github\BoolKombinasyonu\bin\Debug\BoolKombinasyonu.exe.config
+C:\Users\Ben\Desktop\github\BoolKombinasyonu\bin\Debug\BoolKombinasyonu.exe
+C:\Users\Ben\Desktop\github\BoolKombinasyonu\bin\Debug\BoolKombinasyonu.pdb
+C:\Users\Ben\Desktop\github\BoolKombinasyonu\obj\Debug\BoolKombinasyonu.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\github\BoolKombinasyonu\obj\Debug\BoolKombinasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\github\BoolKombinasyonu\obj\Debug\BoolKombinasyonu.exe
+C:\Users\Ben\Desktop\github\BoolKombinasyonu\obj\Debug\BoolKombinasyonu.pdb
